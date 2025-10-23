@@ -1,0 +1,12 @@
+{
+    "ivan": {
+        "password": "ivan",
+        "ip": "127.0.0.1",
+        "port": 5000
+    },
+    "aaaa": {
+        "password": "aaaa",
+        "ip": "127.0.0.1",
+        "port": 5000
+    }
+}
